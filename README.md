@@ -2,8 +2,6 @@
 
 # Introduction
 
-* This project was forked from https://github.com/tommpy/demo-lagom-checkout. Thanks to Tom Peck! *
-
 On top of the forked project, the following functionality was implemented:
 
 - Add two new `sbt` commands to select one of the exercises so that `test` or `runAll`
@@ -129,3 +127,5 @@ man [e] > lagom-demo > initial-state > reload
 
 
 ---
+=======
+
